@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-My name is Blessing Agadagba. I am a  data scientist passionate about learning new technologies and solving problems in society through data-driven workable and effective solutions I am enthusiastic about new challenges and learning new technologies in the field of data science and machine learning to increase knowledge and efficiency. I am also advocating for developers with interest in data science
+My name is Blessing Agadagba. I am a  data scientist passionate about learning new technologies and solving problems in society through data-driven workable and effective solutions I am enthusiastic about new challenges and learning new technologies in the field of data science and machine learning . I am also advocating for developers with interest in data science
 
 
 - 🌱 I’m currently learning  Natural Language Processing
