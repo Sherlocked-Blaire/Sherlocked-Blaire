@@ -10,7 +10,7 @@ My name is Blessing Agadagba. I am a  data scientist passionate about learning n
 - 📫 How to reach me:  send a mail @ agadagbablessing@gmail.com, hit me up on [twitter](https://twitter.com/BAgadagba), connect with me on [linkedin](https://www.linkedin.com/in/blessing-agadagba-0bba64165/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to sing, chat and eat
-
+<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sherlocked-Blaire&show_icons=true" alt="KemmieKemy" /></p>
 
 
 
