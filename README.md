@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img  align="right" src="https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="465" width="350">
  
 My name is Blessing Agadagba. I am a  data scientist passionate about learning new technologies and solving problems in society through data-driven workable and effective solutions I am enthusiastic about new challenges and learning new technologies in the field of data science and machine learning . I am also advocating for developers with interest in data science
 
@@ -9,7 +10,7 @@ My name is Blessing Agadagba. I am a  data scientist passionate about learning n
 - 📫 How to reach me:  send a mail @ agadagbablessing@gmail.com, hit me up on [twitter](https://twitter.com/BAgadagba), connect with me on [linkedin](https://www.linkedin.com/in/blessing-agadagba-0bba64165/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to sing, chat and eat
-<img  align="right" src="https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="465" width="350">
+
 
 
 
