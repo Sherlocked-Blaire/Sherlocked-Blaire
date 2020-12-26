@@ -9,7 +9,7 @@ My name is Blessing Agadagba. I am a  data scientist passionate about learning n
 - 📫 How to reach me:  send a mail @ agadagbablessing@gmail.com, hit me up on [twitter](https://twitter.com/BAgadagba), connect with me on [linkedin](https://www.linkedin.com/in/blessing-agadagba-0bba64165/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to sing, chat and eat
-<img src="https://image.shutterstock.com/z/stock-vector-vector-sketch-cartoon-illustration-of-fashion-programmer-girl-with-eyeglasses-and-laptop-1673891578.jpg" height="240" width="480">
+<img src="https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="240" width="480">
 
 
 #### Languages and tools
