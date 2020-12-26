@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img  align="right" src="https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="600" width="480">
+<img  align="right" src="https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="500" width="380">
  
 My name is Blessing Agadagba. I am a  data scientist passionate about learning new technologies and solving problems in society through data-driven workable and effective solutions I am enthusiastic about new challenges and learning new technologies in the field of data science and machine learning . I am also advocating for developers with interest in data science
 
