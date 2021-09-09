@@ -5,7 +5,7 @@ My name is Blessing Agadagba. I make sense out of data😍.
 
 
 - 🌱 I’m currently helping businesses make decisions from data.
-- 👯  Have a project in mind that require crucnching the numbers, feel free to hit me up, I am more than happy to collaborate.
+- 👯  Have a project in mind that require crunching the numbers, feel free to hit me up, I am more than happy to collaborate.
 - 💬 Ask me about anything,I am happy to help
 - 📫 How to reach me:  send a mail @ agadagbablessing@gmail.com, hit me up on [twitter](https://twitter.com/BAgadagba), connect with me on [linkedin](https://www.linkedin.com/in/blessing-agadagba-0bba64165/)
 - 😄 Pronouns: She/Her
