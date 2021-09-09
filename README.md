@@ -1,12 +1,12 @@
 ### Hi there 👋
 <img  align="right" src="https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="500" width="380">
  
-My name is Blessing Agadagba. I am a  data scientist passionate about learning new technologies and solving problems in society through data-driven workable and effective solutions I am enthusiastic about new challenges and learning new technologies in the field of data science and machine learning . I am also advocating for developers with interest in data science
+My name is Blessing Agadagba. I make sense out of data😍.
 
 
-- 🌱 I’m currently learning  Natural Language Processing
-- 👯 I’m looking to collaborate on all this data (data science and machine learning)
-- 💬 Ask me about anything ,I am happy to help
+- 🌱 I’m currently helping businesses make decisions from data.
+- 👯  Have a project in mind that require crucnching the numbers, feel free to hit me up, I am more than happy to collaborate.
+- 💬 Ask me about anything,I am happy to help
 - 📫 How to reach me:  send a mail @ agadagbablessing@gmail.com, hit me up on [twitter](https://twitter.com/BAgadagba), connect with me on [linkedin](https://www.linkedin.com/in/blessing-agadagba-0bba64165/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to sing, chat and eat
